@@ -1,0 +1,3 @@
+Instructions for deploying this site to the server
+--------------------------------------------------
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pharetra arcu sit amet erat bibendum, ut pretium nulla auctor. Nulla id vehicula odio, nec varius ex. Nam condimentum quis ante quis tincidunt. Sed convallis dictum arcu, quis semper nibh maximus ut. Aenean imperdiet venenatis sapien, at ultricies mauris. Proin sed pellentesque ex. Maecenas lobortis sed dui vitae euismod. In at laoreet augue.
