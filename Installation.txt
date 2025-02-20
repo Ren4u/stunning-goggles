@@ -1,4 +1,4 @@
 Installation on IIS
 -------------------
 
-Content goes here
+Prepare the IIS software bundle
